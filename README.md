@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Raul Martínez 👋</h1>
 </div>
-<img height="300em" width="900em" src="https://i.ibb.co/frB0jvR/Banner-Github.jpg" alt="Banner-Github" border="0">
+<img height="500em" width="900em" src="https://i.ibb.co/frB0jvR/Banner-Github.jpg" alt="Banner-Github" border="0">
 
 <!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
