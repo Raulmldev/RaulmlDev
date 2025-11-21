@@ -10,7 +10,7 @@
 
 ## Sobre mi
 
-- ⭐ Estudiante en prácticas ⭐ 
+- ⭐ Junior Developer ⭐ 
 - 📲 Cross-platform Application Developer
 
 <br>
